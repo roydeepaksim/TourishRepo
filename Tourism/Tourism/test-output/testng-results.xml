@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[check]]>
+    </line>
+    <line>
+      <![CDATA[find]]>
+    </line>
+    <line>
+      <![CDATA[search]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78" started-at="2022-11-29T14:43:04Z" finished-at="2022-11-29T14:43:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="78" started-at="2022-11-29T14:43:04Z" finished-at="2022-11-29T14:43:04Z">
+      <class name="com.tourism.testscript.Demo">
+        <test-method status="PASS" signature="check()[pri:0, instance:com.tourism.testscript.Demo@475e586c]" name="check" duration-ms="16" started-at="2022-11-29T14:43:04Z" finished-at="2022-11-29T14:43:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[check]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- check -->
+        <test-method status="PASS" signature="find()[pri:0, instance:com.tourism.testscript.Demo@475e586c]" name="find" duration-ms="0" started-at="2022-11-29T14:43:04Z" finished-at="2022-11-29T14:43:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[find]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- find -->
+        <test-method status="PASS" signature="search()[pri:0, instance:com.tourism.testscript.Demo@475e586c]" name="search" duration-ms="0" started-at="2022-11-29T14:43:04Z" finished-at="2022-11-29T14:43:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[search]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- search -->
+      </class> <!-- com.tourism.testscript.Demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
